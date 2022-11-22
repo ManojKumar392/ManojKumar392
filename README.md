@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on ... data science and data analytics project
 - 📫 How to reach me ...
     ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->> manoj2003r@gmail.com
+    
     ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) -->> CaptainCrits#4085
+    
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->> https://www.linkedin.com/in/manoj-kumar-6418b71b1
+    
 <!---
 ManojKumar392/ManojKumar392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
