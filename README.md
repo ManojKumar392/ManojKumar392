@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Machine learning
 - 💞️ I’m looking to collaborate on ... data science and data analytics project
 - 📫 How to reach me ...
-- 
+
     ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->> manoj2003r@gmail.com
     
     ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) -->> CaptainCrits#4085
