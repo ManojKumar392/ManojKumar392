@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManojKumar392
 - 👀 I’m interested in ... Algorithms , Ml, Nlp
 - 🌱 I’m currently learning ... Machine learning
-- 💞️ I’m looking to collaborate on ... data science and data analytics project
+- 💞️ loves learning new stuff
 - 📫 How to reach me ...
 
     ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->> manoj2003r@gmail.com
